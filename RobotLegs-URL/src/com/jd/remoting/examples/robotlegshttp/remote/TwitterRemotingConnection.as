@@ -1,14 +1,3 @@
-/*
-
- Copyright (c) 2010 cie games, All Rights Reserved
-
- @author   Jason Dias
- @contact  jason.dias@ciegames.com
- @project  Car Town
-
- @internal
-
- */
 package com.jd.remoting.examples.robotlegshttp.remote
 {
 	import com.jd.remoting.core.IRemotingConnection;
